@@ -1,0 +1,13 @@
+{
+    "name": "jianghe/basic_service",
+    "description": "服务基础",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jason Jiang",
+            "email": "jasonjiang@boqii.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
